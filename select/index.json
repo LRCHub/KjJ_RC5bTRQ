@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "メメント",
   "base_artist": "tayori",
-  "createdAt": "2025-12-03T08:49:37.512242Z",
+  "createdAt": "2026-03-20T05:10:37.236707Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -45,12 +45,37 @@
       "path": "select/05_メメント_モリ_Aqua_Timez.lrc"
     },
     {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メメント モメント♪ルルルルル☆",
+      "artist": "タウラス(春日未来×徳川まつり×宮尾美也)",
+      "has_synced": true,
+      "path": "select/06_メメント_モメント♪ルルルルル☆_タウラス(春日未来×徳川まつり×宮尾美也).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メメント・アビス",
+      "artist": "NoGoD",
+      "has_synced": false,
+      "path": "select/07_メメント・アビス_NoGoD.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "メメント",
       "artist": "tayori",
       "has_synced": false,
       "path": "select/pl_01_メメント_tayori.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "メメント",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/localdb_01_メメント_tayori.txt",
+      "repo_name": "KjJ_RC5bTRQ"
     }
   ]
 }
